@@ -1,7 +1,7 @@
 import asyncio
 asyncio.set_event_loop_policy(asyncio.DefaultEventLoopPolicy())
 import sys, json, os, time
-sys.path.insert(0, "/Users/ajayrawat/Downloads/ai-doc-platform/backend")
+
 from dotenv import load_dotenv
 load_dotenv()
 
